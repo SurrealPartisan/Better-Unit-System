@@ -16,13 +16,13 @@ For these reasons, and any you might add, the **Better Unit System** is hereby p
 |---------|-----------|----------------------------------------------------|------------------------------------------------------------------------------------------------------|
 |boltzmann|z          |entropy                                             |1.380649×10<sup>-23</sup> m<sup>2</sup>⋅kg⋅s<sup>-2</sup>⋅K<sup>-1</sup>                              |
 |bed      |d          |radiation exposure / speed squared (for some reason)|9.82×10<sup>-8</sup> m<sup>2</sup>⋅s<sup>-2</sup>                                                     |
-|barrel   |r          |volume                                              |approximately 0.15899 m <sup>3</sup>                                                                  |
-|batman   |n          |mass                                                |10 kg                                                                                                 |
+|barrel   |e          |volume                                              |approximately 0.15899 m <sup>3</sup>                                                                  |
+|bar      |r          |pressure                                            |10<sup>5</sup> kg⋅m<sup>-1</sup>⋅s<sup>-2</sup>                                                       |
 |bermit   |t          |permittivity                                        |approximately 8.8541878128×10<sup>-12</sup> s<sup>4</sup>⋅A<sup>2</sup>⋅m<sup>-3</sup>⋅kg<sup>-1</sup>|
 |bunch    |h          |amount of substance                                 |approximately 1.66053917×10<sup>-9</sup> mol, exactly one billiard particles                          |
 |bulb     |l          |luminous efficacy                                   |10.4 cd⋅s<sup>3</sup>⋅sr⋅kg<sup>-1</sup>⋅m<sup>-2</sup>                                               |
 |borogove |g          |mimsiness                                           |just enough for brillig                                                                               |
-|bulge    |w          |owo                                                 |What's this?                                                                                          |
+|bulge    |owo        |arousal                                             |What's this?                                                                                          |
 
 ## Some derived units
 To be added in a later revision.
