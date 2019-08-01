@@ -29,7 +29,7 @@ The first step must be defining units corresponding to the dimensions of each SI
 
 We will start with length. It is simply the cubic root of volume, so the unit has the form e<sup>1/3</sup>. This unit is called barefoot (rft). Converted to SI, 1 rft ≈ 0.54174 m.
 
-Next comes mass. Naturally, we get one by multiplying pressure with volume and dividing by radiation exposure. That is, the value for a unit of mass is r⋅e⋅d<sup>-1</sup>. According to a fine Middle Eastern tradition, the unit shall be named batman, with symbol t. In SI, 1 t ≈ 162000000000 kg.
+Next comes mass. Naturally, we get one by multiplying pressure with volume and dividing by radiation exposure. That is, the value for a unit of mass is r⋅e⋅d<sup>-1</sup>. According to a fine Middle Eastern tradition, the unit shall be named batman, with symbol t. In SI, 1 t ≈ 162000000000 kg. An average human weighs about 0.5 nt (nanobatmans).
 
 Following similar logic, the unit for time has the form e<sup>1/3</sup>⋅d<sup>-1/2</sup>. It is called bittoolong (ttl). 1 ttl ≈ 1728 s, or about half an hour.
 
