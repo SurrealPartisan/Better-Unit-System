@@ -16,7 +16,7 @@ For these reasons, and any you might add, the **Better Unit System** is hereby p
 |---------|-----------|----------------------------------------------------|------------------------------------------------------------------------------------------------------|
 |boltzmann|z          |entropy                                             |1.380649×10<sup>-23</sup> m<sup>2</sup>⋅kg⋅s<sup>-2</sup>⋅K<sup>-1</sup>                              |
 |bed      |d          |radiation exposure / speed squared (for some reason)|9.82×10<sup>-8</sup> m<sup>2</sup>⋅s<sup>-2</sup>                                                     |
-|barrel   |e          |volume                                              |approximately 0.15899 m <sup>3</sup>                                                                  |
+|barrel   |e          |volume                                              |approximately 0.15899 m<sup>3</sup>                                                                  |
 |bar      |r          |pressure                                            |10<sup>5</sup> kg⋅m<sup>-1</sup>⋅s<sup>-2</sup>                                                       |
 |bermit   |t          |permittivity                                        |approximately 8.8541878128×10<sup>-12</sup> s<sup>4</sup>⋅A<sup>2</sup>⋅m<sup>-3</sup>⋅kg<sup>-1</sup>|
 |bunch    |h          |amount of substance                                 |approximately 1.66053917×10<sup>-9</sup> mol, exactly one billiard particles                          |
@@ -25,7 +25,15 @@ For these reasons, and any you might add, the **Better Unit System** is hereby p
 |bulge    |owo        |arousal                                             |What's this?                                                                                          |
 
 ## Some derived units
-To be added in a later revision.
+The first step must be defining units corresponding to the dimensions of each SI base unit, just to show all the sceptics that this is an actually functional system.
+
+We will start with length. It is simply the cubic root of volume, so the unit has the form e<sup>1/3</sup>. This unit is called barefoot (rft). Converted to SI, 1 rft ≈ 0.54174 m.
+
+Next comes mass. Naturally, we get one by multiplying pressure with volume and dividing by radiation exposure. That is, the value for a unit of mass is r⋅e⋅d<sup>-1</sup>. According to a fine Middle Eastern tradition, the unit shall be named batman, with symbol t. In SI, 1 t ≈ 162000000000 kg.
+
+Following similar logic, the unit for time has the form e<sup>1/3</sup>⋅d<sup>-1/2</sup>. It is called bittoolong (ttl). 1 ttl ≈ 1728 s, or about half an hour.
+
+More to be added in a later revision.
 
 ## Values for some physical constants
 To be added in a later revision.
