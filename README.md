@@ -42,17 +42,19 @@ Defining a unit for luminous intensity would be trivial, but who cares? Let's mo
 In cognitive neuroscience, the emotional state of an individual can be described in two dimensions: arousal and valence. We already have a unit for arousal, so one should be derived for valence. It is known that mimsiness is the product of flimsiness and miserability. Flimsiness is the reciprocal of strength (measured in units of pressure) and miserability is the reciprocal of positive valence. Thus, the unit of valence, known as bigsmile (sm), is defined. 1 sm = g<sup>-1</sup>⋅r<sup>-1</sup>.
 
 ## Values for some physical constants
-Boltzmann constant: 1 z (Duh!)
+- Boltzmann constant: 1 z (Duh!)
 
-Vacuum permittivity: 1 frg (Doy!)
+- Vacuum permittivity: 1 frg (Doy!)
 
-Speed of light: approximately 957000000000 d<sup>1/2</sup> = 957 Grft/ttl (gigabarefoots per bittoolong)
+- Speed of light: approximately 957000000000 d<sup>1/2</sup> = 957 Grft/ttl (gigabarefoots per bittoolong)
 
-Typical human body temperature: approximately 2.7×10<sup>-25</sup> °U
+- Typical human body temperature: approximately 2.7×10<sup>-25</sup> °U
 
-Hagedorn temperature (where all hadronic matter breaks down): approximately 1.7×10<sup>-15</sup> °U
+- Hagedorn temperature (where all hadronic matter breaks down): approximately 1.7×10<sup>-15</sup> °U
 
-Viscosity of whole milk in room temperature: approximately 12 prttl (picobar-bitstoolong)
+- Dynamic viscosity of whole milk in room temperature: approximately 12 prttl (picobar-bitstoolong)
+
+- Gravitational constant: approximately 203 Mrftd/t (megabarefoot-beds per batman)
 
 ## Disclaimers
 The Better Unit System is subject to arbitrary revisions from any self-appointed member of the Better Committee for Weights and Measures. It is licensed under the [*Do What The Fuck You Want To Public License* (WTFPL)](http://www.wtfpl.net/). 
